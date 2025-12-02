@@ -68,7 +68,3 @@ Kelangan nakalagay is PASSED (Green)
 
 ---
 
-## For my classmates
-
-**Oh clone nyo na mga putanginang kaklase ko.**
-
